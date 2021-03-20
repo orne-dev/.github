@@ -1,3 +1,3 @@
 # Orne.dev GitHub resources
 
-Workflows and actions for Orne.dev projects.
+Workflows templates for Orne.dev projects.

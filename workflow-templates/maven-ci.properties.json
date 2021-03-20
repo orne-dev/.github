@@ -1,0 +1,12 @@
+{
+    "name": "Maven Project CI",
+    "description": "Orne.dev Maven project workflow template.",
+    "iconName": "maven-ci",
+    "categories": [
+        "Java",
+        "Maven POM"
+    ],
+    "filePatterns": [
+        "pom.xml$"
+    ]
+}
